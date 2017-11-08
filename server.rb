@@ -1,6 +1,9 @@
 require 'sinatra'
 
 get '/' do
-  "Hello World"
-  "This is the server"
+  "Hello Wyncode"
 end
+
+#git add
+#git commit -m
+#git push heroku master
