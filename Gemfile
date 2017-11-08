@@ -1,5 +1,3 @@
-source "https://rubygems.org"   #bundle install in command line
-
+source "https://rubygems.org"
 ruby "2.2.3"
-
 gem "sinatra"
